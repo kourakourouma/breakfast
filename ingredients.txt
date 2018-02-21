@@ -2,6 +2,7 @@ breakfast
 point
 workshop
 madrid
+eggs(Chihjen likes it!)
 Spain
 February
 Happiness
